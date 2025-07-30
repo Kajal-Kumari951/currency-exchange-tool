@@ -4,7 +4,7 @@ A simple and responsive currency converter web app built using **HTML**, **CSS**
 
 ---
 
-![Game Screenshot](assets/Screenshot.png)
+![Screenshot](assets/Screenshot .png)
 
 ---
 
