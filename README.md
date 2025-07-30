@@ -10,7 +10,7 @@ A simple and responsive currency converter web app built using **HTML**, **CSS**
 
 ## 🌐 Live Demo
 
-[Click here!](https://Kajal-Kumari1951.github.io/currency-exchange-tool/)
+[Click here!](https://Kajal-Kumari951.github.io/currency-exchange-tool/)
 
 ---
 
