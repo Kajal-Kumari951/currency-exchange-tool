@@ -4,6 +4,16 @@ A simple and responsive currency converter web app built using **HTML**, **CSS**
 
 ---
 
+![Game Screenshot](assets/Screenshot.png)
+
+---
+
+## 🌐 Live Demo
+
+[Click here to play Rock, Paper, Scissors!](https://kajal-kumar1951.github.io/currency-exchane-tool/)
+
+---
+
 ## 🔹 Features
 
 - Real-time currency conversion
